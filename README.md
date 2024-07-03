@@ -2,6 +2,8 @@
 
 This project leverages Power BI to create a comprehensive dashboard that provides a wide range of analytics for Zomato data. The dashboard visualizes key metrics and trends, offering valuable insights into sales, customer preferences, and restaurant performance.
 
+![Zomato Dashboard Main](./Dashboard.png)
+
 ## Features
 
 ### Sales Analytics
