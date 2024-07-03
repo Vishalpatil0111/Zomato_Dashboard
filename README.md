@@ -40,4 +40,9 @@ This project leverages Power BI to create a comprehensive dashboard that provide
 2.**Open Power BI**:
 
 - Import the dataset provided in the repository.
-- Load the Power BI template file (zomato_dashboard.pbix
+- Load the Power BI template file (`zomato.pbix`)
+
+3.**Explore the Dashboard**:
+
+- Interact with various visualizations to gain insights.
+- Use filters to customize the data view as per your requirements.
