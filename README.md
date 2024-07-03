@@ -6,31 +6,26 @@ This project leverages Power BI to create a comprehensive dashboard that provide
 
 ## Features
 
-### Sales Analytics
+### Sales Analytics💸
 
 - **Total Sales**: Visualize the overall sales across different time periods.
 - **Sales by Category**: Break down sales into categories like veg and non-veg.
 - **Sales Trends**: Identify sales trends over time with interactive line charts.
 
-### Order Insights
+### Order Insights 📦
 
 - **Quantity Analysis**: Analyze the quantity of items sold across various categories.
 - **Order Ratings**: Evaluate the ratings given by customers for different orders.
 - **Order Distribution**: Visualize the distribution of orders across different regions and times.
 
-### Customer Preferences
+### Customer Preferences 🍴
 
 - **Veg vs Non-Veg Sales**: Compare the sales of vegetarian and non-vegetarian items.
 - **Popular Items**: Identify the most popular items based on sales and quantity.
 - **Customer Demographics**: Understand the demographics of customers placing orders.
 
-### Restaurant Performance
 
-- **Restaurant Ratings**: Assess the performance of restaurants based on customer ratings.
-- **Sales by Restaurant**: Compare the sales performance of different restaurants.
-- **Top Performing Restaurants**: Highlight the top-performing restaurants based on various metrics.
-
-## Technologies Used
+## Technologies Used 🛠️
 
 - **Power BI**: Utilized for creating interactive and dynamic visualizations.
 - **DAX**: Used for creating calculated columns and measures to enhance the analytics.
